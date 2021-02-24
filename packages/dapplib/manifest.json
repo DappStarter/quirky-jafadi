@@ -1,0 +1,17 @@
+{
+    "name": "Testie dapp",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/asset_value_tracking/token/name": "Testie",
+        "/category/asset_value_tracking/token/symbol": "Tsti",
+        "/category/asset_value_tracking/token/decimals": "0",
+        "/category/asset_value_tracking/token/supply": "10",
+        "/category/collection/entity": true
+    }
+}
